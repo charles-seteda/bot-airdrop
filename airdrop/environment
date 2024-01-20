@@ -1,0 +1,10 @@
+# Create .env file with content below:
+
+PORT=3007
+EACH_SECOND='*/1 * * * * *'
+EACH_15_SECONDS='*/15 * * * * *'
+EACH_15_MINUTES='*/15 * * * *'
+EACH_1_MINUTES='* * * * *'
+CRONJOB_TIME_GET_AIRDROP='* * * * *'
+IS_ENABLE_JOB_GET_AIRDROP=true
+SOLANA_RPC=https://api.devnet.solana.com
